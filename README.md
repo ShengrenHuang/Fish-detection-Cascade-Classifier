@@ -38,5 +38,5 @@ https://user-images.githubusercontent.com/108604868/183384243-a9b7d9fe-10f4-40a4
 
 
 # Reference
-https://www.pexels.com/video/a-fish-swimming-underwater-5548177/  
-https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
+[1] https://www.pexels.com/video/a-fish-swimming-underwater-5548177/  
+[2] https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
