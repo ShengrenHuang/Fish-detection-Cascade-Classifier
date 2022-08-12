@@ -36,7 +36,8 @@ https://user-images.githubusercontent.com/108604868/184276607-3e51f243-de73-44ba
 
 
 
-
+可以再探討的方向:
+1. Negative image 要如何選定?
 
 
 
