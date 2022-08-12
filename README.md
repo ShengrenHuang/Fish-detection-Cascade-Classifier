@@ -50,9 +50,9 @@ https://user-images.githubusercontent.com/108604868/184276607-3e51f243-de73-44ba
 
 
 # Reference
-[1] https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset  
-[2] https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-TW
-[3] https://docs.opencv.org/4.2.0/dc/d88/tutorial_traincascade.html 
-[4] https://www.pexels.com/video/a-fish-swimming-underwater-5548177/  
+[1] https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset    
+[2] https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-TW  
+[3] https://docs.opencv.org/4.2.0/dc/d88/tutorial_traincascade.html   
+[4] https://www.pexels.com/video/a-fish-swimming-underwater-5548177/    
 [5] Detection of Bluefin Tuna by Cascade Classifier and Deep Learning for Monitoring Fish Resources
 
